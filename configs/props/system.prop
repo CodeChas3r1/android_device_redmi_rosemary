@@ -1,0 +1,23 @@
+# Audio
+audio.deep_buffer.media=false
+ro.config.vc_call_vol_steps=7
+
+# Camera
+ro.camera.highres.packagelist=org.lineageos.snap,com.google.android.apps.cameralite
+
+# Misc
+ro.display.type=oled
+persist.audio.button_jack.profile=volume
+persist.audio.button_jack.switch=0
+
+# VoLTE
+persist.dbg.volte_avail_ovr=1
+persist.dbg.vt_avail_ovr=1
+persist.dbg.wfc_avail_ovr=1
+
+# SafetyNet
+ro.boot.verifiedbootstate=green
+
+# Inherit device specific props
+import /system/build_${ro.boot.hwname}.build.prop
+import /system/${ro.boot.product.hardware.sku}.build.prop

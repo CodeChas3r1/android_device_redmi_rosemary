@@ -1,0 +1,14 @@
+# Device
+ro.product.system.brand=Redmi
+ro.product.system.manufacturer=Xiaomi
+ro.product.system.model=Redmi Note 10S
+ro.product.system.device=maltose
+ro.product.system.name=maltose_global
+ro.product.model=Redmi Note 10S
+ro.product.board=maltose
+ro.product.device=maltose
+ro.product.name=maltose_global
+ro.build.flavor=maltose-user
+ro.build.product=maltose
+ro.build.fingerprint=Redmi/maltose_global/maltose:12/SP1A.210812.016/V13.0.8.0.SKLMIXM:user/release-keys
+ro.system.build.fingerprint=Redmi/maltose_global/maltose:12/SP1A.210812.016/V13.0.8.0.SKLMIXM:user/release-keys

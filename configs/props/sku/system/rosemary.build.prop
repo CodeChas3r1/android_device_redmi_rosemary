@@ -1,0 +1,14 @@
+# Device
+ro.product.system.brand=Redmi
+ro.product.system.manufacturer=Xiaomi
+ro.product.system.model=Redmi Note 10S
+ro.product.system.device=rosemary
+ro.product.system.name=rosemary_global
+ro.product.model=Redmi Note 10S
+ro.product.board=rosemary
+ro.product.device=rosemary
+ro.product.name=rosemary_global
+ro.build.flavor=rosemary-user
+ro.build.product=rosemary
+ro.build.fingerprint=Redmi/rosemary_global/rosemary:12/SP1A.210812.016/V13.0.8.0.SKLMIXM:user/release-keys
+ro.system.build.fingerprint=Redmi/rosemary_global/rosemary:12/SP1A.210812.016/V13.0.8.0.SKLMIXM:user/release-keys
